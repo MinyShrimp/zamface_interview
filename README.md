@@ -13,7 +13,7 @@
 
 ### 3. 간단한 링크드 리스트나 해시테이블 구현 하는 코드 가능 하신지요?
 
-> A. 별첨하겠습니다.
+> A. https://github.com/MinyShrimp/zamface_interview/tree/main/linkedList
 
 ### 4. 알고리즘과 코드 학습을 꾸준히 하시는지요?
 
@@ -80,3 +80,5 @@ d. 위의 격자와 섬좌표를 파일에 read/write 처리
 * (보너스) 매우큰 격자일 경우 분산 가능?
 * (보너스) 매우큰 격자일 경우 삽입/삭제시 성능 O(n^2), O(2*n) 등 구조를 탈피
 ```
+
+답] https://github.com/MinyShrimp/zamface_interview
