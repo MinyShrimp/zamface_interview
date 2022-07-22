@@ -1,0 +1,6 @@
+10 10
+add 100
+del 10
+add 5
+del 95
+add 90
